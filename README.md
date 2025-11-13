@@ -17,7 +17,7 @@ Atualmente atuo como **Desenvolvedor FullStack no INFOSI (Instituto Nacional de 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JoelPaixao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://github.com/JoelPaixao?tab=stars"
         />
     </a>
     <a href="https://github.com/JoelPaixao?tab=followers">
