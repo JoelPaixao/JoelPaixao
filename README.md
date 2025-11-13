@@ -1,11 +1,14 @@
-# 🖥️ Joel Paixão 👾
+<h1 align="center"><b>🖥️ Joel Paixão 👾</b></h1>
 
-**`Desenvolvedor FullStack`**
+<p align="center">👨‍💻Desenvolvedor FullStack apaixonado por criar soluções inovadoras e eficientes | Desenvolvimento de Software🌍</p>
+
+---
+<h3>Sobre mim:</h3>
 
 Angolano, residente em Luanda, estudante de Engenharia Informática.  
-Concluí o Ensino Médio Técnico em Informática em 2025, no **Instituto de Telecomunicações - ITEL**, onde desenvolvi como TCC um **Aplicativo de Geolocalização de Venda e Arrendamento de Imóveis**, baseado no modelo MVC e utilizando **HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, React Native e Node.js**.  
+Concluí o Ensino Médio Técnico em Informática em 2025, no **Instituto de Telecomunicações - ITEL**.  
  
-Atualmente atuo como **Desenvolvedor FullStack no INFOSI (Instituto Nacional de Fomento da Sociedade da Informação)**, acumulando experiência em projetos de grande impacto para o setor público angolano.  
+Atualmente atuo como **Desenvolvedor FullStack no INFOSI (Instituto Nacional de Fomento da Sociedade da Informação)**, acumulando experiência em projetos de grande impacto para o setor público angolano.
 
 ---
 
