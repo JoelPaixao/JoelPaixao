@@ -1,6 +1,6 @@
 <h1 align="center"><b>🖥️ Joel Paixão 👾</b></h1>
 
-<p align="center">👨‍💻Desenvolvedor FullStack apaixonado por criar soluções inovadoras e eficientes | Desenvolvimento de Software🌍</p>
+<p align="center">👨‍💻Desenvolvedor FullStack apaixonado por criar soluções inovadoras e eficientes | Desenvolvimento Web🌍</p>
 
 ---
 <h3>Sobre mim:</h3>
